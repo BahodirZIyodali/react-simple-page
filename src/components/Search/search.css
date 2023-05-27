@@ -1,0 +1,18 @@
+.searchInputs{
+    width: 50% !important;
+}
+@media only screen and (max-width:992px){
+    .searchInputs{
+        width: 80% !important;
+    }
+}
+@media only screen and (max-width:768px){
+    .searchInputs{
+        width: 100% !important;
+    }
+}
+@media only screen and (max-width:576px){
+    .searchInputs{
+        width: 100% !important;
+    }
+}

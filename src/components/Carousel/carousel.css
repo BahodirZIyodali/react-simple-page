@@ -1,0 +1,18 @@
+.carousel-inner, .carousel-item,.carousel-wrapper{
+    height: 70vh;
+    background-color: #DCE5E2;
+}
+.carouselText{
+    font-size: 55px;
+    font-family: sans-serif;
+}
+@media only screen and (max-width:576px){
+    .carousel-inner, .carousel-item,.carousel-wrapper{
+        height: 57vh;
+        background-color: #DCE5E2;
+    }
+    .carouselText{
+        font-size:30px;
+        font-family: sans-serif;
+    }
+}
